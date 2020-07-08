@@ -1,0 +1,29 @@
+{
+    "records": [
+        {
+            "id": "rec3APJV3yRHlpHoA",
+            "fields": {
+                "name": "Basecamp",
+                "website_url": "https://basecamp.com"
+            },
+            "createdTime": "2020-07-07T09:15:52.000Z"
+        },
+        {
+            "id": "recbSII0tMw9kiOT3",
+            "fields": {
+                "name": "Google",
+                "website_url": "google.com"
+            },
+            "createdTime": "2020-07-07T09:29:29.000Z"
+        },
+        {
+            "id": "rec602nRQTE3HyCbY",
+            "fields": {
+                "name": "Apple",
+                "website_url": "apple.com"
+            },
+            "createdTime": "2020-07-07T09:29:37.000Z"
+        }
+    ],
+    "offset": "rec602nRQTE3HyCbY"
+}

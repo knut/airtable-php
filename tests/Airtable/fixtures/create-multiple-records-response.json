@@ -1,0 +1,20 @@
+{
+   "records":[
+      {
+         "id":"recqIa4lsxVOifKbL",
+         "fields":{
+            "name":"Apple",
+            "website_url":"https://apple.com"
+         },
+         "createdTime":"2020-07-08T13:22:07.000Z"
+      },
+      {
+         "id":"recesAyblg4lo3NKK",
+         "fields":{
+            "name":"Google",
+            "website_url":"https://google.com"
+         },
+         "createdTime":"2020-07-08T13:22:07.000Z"
+      }
+   ]
+}
